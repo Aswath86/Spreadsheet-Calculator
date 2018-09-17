@@ -1,6 +1,6 @@
 # Spreadsheet-Calculator
 
-This exercise is one of my latest test assignments during job search. The architecture is draft and the exercise was completed in 3.45 hours, so obviously it's not the best of the codes that I have developed.
+This exercise is one of my latest test assignments, you know... The architecture is draft and the exercise was completed in 3.45 hours, so obviously it's not the best of the codes that I have developed.
 
 ##how to run
 
